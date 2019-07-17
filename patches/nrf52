@@ -5,6 +5,9 @@ Date:   2019-07-16 23:31:40 -0400
 
 Fix for compiling on NRF52.
 
+SPI_BITORDER_MSBFIRST / SPI_BITORDER_LSBFIRST not defined when compiling
+on nrf52.
+
 
 
 ---
