@@ -1,0 +1,12 @@
+Bottom: 2b939086e15468a6b632bb66d060610315caf277
+Top:    2b939086e15468a6b632bb66d060610315caf277
+Author: scott snyder <sss@karma>
+Date:   2019-07-16 23:31:40 -0400
+
+Fix for compiling on NRF52.
+
+
+
+---
+
+

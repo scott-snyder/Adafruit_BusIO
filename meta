@@ -1,6 +1,7 @@
 Version: 1
-Previous: None
-Head: 03c635d2c2bf0ee7c3b7403ec520299e19e25ee4
+Previous: c1308ff01383515ddfa3ca27126acc743f52414b
+Head: 5ae623b4c0483555d025d6ee8ed2ffd9400333c6
 Applied:
+  nrf52: 5ae623b4c0483555d025d6ee8ed2ffd9400333c6
 Unapplied:
 Hidden:
