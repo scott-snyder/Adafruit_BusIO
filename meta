@@ -1,8 +1,7 @@
 Version: 1
-Previous: 2b2960b137b5b432ace0874cf8512981d89e5770
-Head: 2e5e28d423124b1eace99fe9173eae812d29e0c1
+Previous: 372256ac00d5f050abbfad049c117234a7b89850
+Head: 6b40f7c2dcbd8eee6cef01ff525fd0088be87e27
 Applied:
-  nrf52: 5ae623b4c0483555d025d6ee8ed2ffd9400333c6
-  refresh-temp: 2e5e28d423124b1eace99fe9173eae812d29e0c1
+  nrf52: 6b40f7c2dcbd8eee6cef01ff525fd0088be87e27
 Unapplied:
 Hidden:
